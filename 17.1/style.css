@@ -1,0 +1,12 @@
+body {
+    font-family: system-ui;
+    background: #f06d;
+    color: white;
+    size: 60px;
+    text-align: center;
+  }
+  p {
+    background: #020233;
+    color: white;
+    size: 54px;
+    padding: 54px;}
